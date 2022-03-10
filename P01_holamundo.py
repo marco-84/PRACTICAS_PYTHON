@@ -1,0 +1,3 @@
+print   ( "HOLA MUNDO"  )
+print ("MARCO ANTONIO MORALES PÉREZ" )
+print ("COMPUTACIÓN APLICADA")
