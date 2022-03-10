@@ -1,4 +1,4 @@
-# PROGRAMAS PYTHON PARA COMPUTACIÓN APLICADA
+# PROGRAMAS PYTHON PARA COMPUTACIÓN APLICADA - PRIMER SEMESTRE
 
 ## Actividad 01 - Programas hechos en clase
 - Subir al repositorio de github los programas hechos en clase
